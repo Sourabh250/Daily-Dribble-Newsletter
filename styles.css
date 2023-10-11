@@ -1,0 +1,45 @@
+body {
+    color: #121212;
+    text-align: center;
+}
+
+#main-img {
+    width: 380px;
+    border: 3px solid #121212;
+}
+
+.paragraph {
+    max-width: 380px;
+    margin: 10px auto 40px;
+    font-style: italic;
+}
+
+input {
+    border: 3px solid #121212;
+    padding: 10px 15px;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    width: 215px;
+    font-weight: bold;
+}
+
+button {
+    width: 250px;
+    margin-top: 10px;
+    color: white;
+    background: #121212;
+    border: 3px solid #121212;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.terms {
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+a {
+    color: #121212;
+}
